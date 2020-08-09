@@ -1,5 +1,7 @@
 tracer:
   property: "I AM THE DEVELOPER"
+example:
+  property: "This is a example custom property"
 spring:
   jpa:
     hibernate:
